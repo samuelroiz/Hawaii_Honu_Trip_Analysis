@@ -1,1 +1,2 @@
 # Code starts here
+# THIS CODE IS FOR TEST RUNS IN TERMINAL/GIT BASH
